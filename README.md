@@ -5,4 +5,5 @@
 
 2. This project is not complete yet as I am still learning Time series concepts in my current semester and would be adding better model implementation soon.
 
-...Ongoing work
+
+Link - https://devpost.com/software/covent
